@@ -7,7 +7,7 @@ I've been learning front end development with FrontEndNow for over a year now af
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [giddensdp@gmail.com](mailto:giddensdp@gmail.com)
-* 🚀  I'm currently working on [BlogApp](http://vercel.com/katzmotels-projects/blog-app/8LFRUkPtjGFumLRTBzMmqyH3SgzK)
+* 🚀  I'm currently working on [BalanceHub]([)](https://vercel.com/katzmotels-projects/balance-hub)
 * 🧠  I'm currently learning Python, SQL and Next.Js
 * 👥  I'm looking to collaborate on Front End Projects
 
